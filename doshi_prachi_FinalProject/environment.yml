@@ -9,3 +9,4 @@ dependencies:
   - ipywidgets
   - bqplot
   - bokeh
+  - seaborn
