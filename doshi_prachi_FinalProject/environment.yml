@@ -2,20 +2,23 @@ name: example-environment
 channels: 
   - conda-forge
 dependencies:
-  - numpy
   - matplotlib
+  - numpy
   - pandas
-  - traitlets
   - ipywidgets
-  - bqplot
   - DropDown
   - VBox
   - HBox
   - Layout
-  - HoverTool
-  - output_notebook
-  - show
+  - bqplot
+  - Tooltip
   - bokeh
-  - bokeh.io
-  - bokeh.plotting
   - bokeh.models
+  - HoverTool
+  - bokeh.io
+  - output_notebook
+  - bokeh.plotting
+  - show
+  
+  
+ 
