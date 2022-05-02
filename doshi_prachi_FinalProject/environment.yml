@@ -8,4 +8,14 @@ dependencies:
   - traitlets
   - ipywidgets
   - bqplot
+  - DropDown
+  - VBox
+  - HBox
+  - Layout
+  - HoverTool
+  - output_notebook
+  - show
   - bokeh
+  - bokeh.io
+  - bokeh.plotting
+  - bokeh.models
